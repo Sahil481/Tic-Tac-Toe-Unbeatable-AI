@@ -8,7 +8,6 @@ This is a Tic Tac Toe game made in python with the help of customtkinter. This g
 
 ## Demo
 
-Insert gif or link to demo
 ![GIF](https://github.com/Sahil481/Tic-Tac-Toe-Unbeatable-AI/assets/99671469/62ff5605-9890-485b-b1c4-fd55511ea157)
 
 ## Installation guide
